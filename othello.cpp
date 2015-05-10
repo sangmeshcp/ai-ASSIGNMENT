@@ -3,7 +3,7 @@
 //
 // creator:Sangamesh Patil
 // 
-// Description: this is one of the shittiest code ever written by me for a game called reversi which unfortunately works for some cases. 
+// Description: this is one of the  code ever written by me for a game called reversi . 
 //
 // History
 //
