@@ -3,7 +3,7 @@
 //
 // creator:Sangamesh Patil
 // 
-// Description: this is one of the shittiest code ever written by me for logical inference which  works for some cases. 
+// Description: this is a code ever written by me for logical inference. 
 //
 // History
 //
